@@ -90,11 +90,11 @@ const languageResponse = {
 - reservationButton => https://r.gastronaut.ai/:restaurantId (when small button is clicked add date to url ...?date=2020-09-21 )
 - voucherButton => https://v.gastronaut.ai/:restaurantId (Link will not work...)
 - ticketButton => https://t.gastronaut.ai/:restaurantId/:ticketId (Link will not work...)
-- menuButton => https:// menu.gastronaut.ai/:restaurantId (Link will not work...)
+- menuButton => https://menu.gastronaut.ai/:restaurantId (Link will not work...)
 
 ## HOW TO WORK WITH MATERIAL UI
 
-```js
+```javascript
 // get the documentation from https://material-ui.com
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
 // Implement it in .App.js as follows:

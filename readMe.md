@@ -18,10 +18,10 @@
 * [ ] While loading cover the whole page and show a spinner (<CircularProgress /> from Material UI) in the center;
 * [ ] Error Handle Errors by Showing an <Alert severity="error">{message}</Alert> from Material UI instead of the UI;
 
-```yaml
+```javascript
   // GET https://api.gastronaut.ai/codeTest/:restaurantId
   // For Testing available restaurantIds: 'neo-heidelberg', 'schillingroofbar'
-{
+const apiResponse {
   homeAddress: 'Alte Glockengießerei 9 69115 Heidelberg',
   link: 'https://www.schillingroofbar.com', // Use this as href for the logo
   name: 'Schilling Roofbar', // For alt-texts as well as meta title

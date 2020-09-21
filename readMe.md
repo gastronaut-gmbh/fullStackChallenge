@@ -1,5 +1,5 @@
-** Full Stack Challenge
-  *** https://www.figma.com/file/9nHoPcsaW5BqMuDlYMWnVC/Gastronaut-FullStack-Challenge?node-id=0%3A1
+# Full Stack Challenge
+#### [Figma Link](https://www.figma.com/file/9nHoPcsaW5BqMuDlYMWnVC/Gastronaut-FullStack-Challenge?node-id=0%3A1)
 
 * [ ] Recreate Screen using the following Technologies ()
   * [ ] React (create-react-app)
@@ -86,13 +86,13 @@ const languageResponse = {
 
 ```
 
-LINK FOR BUTTONS
-reservationButton => https://r.gastronaut.ai/:restaurantId (when small button is clicked add date to url ...?date=2020-09-21 )
-voucherButton => https://v.gastronaut.ai/:restaurantId (Link will not work...)
-ticketButton => https://t.gastronaut.ai/:restaurantId/:ticketId (Link will not work...)
-menuButton => https:// menu.gastronaut.ai/:restaurantId (Link will not work...)
+## LINK FOR BUTTONS
+- reservationButton => https://r.gastronaut.ai/:restaurantId (when small button is clicked add date to url ...?date=2020-09-21 )
+- voucherButton => https://v.gastronaut.ai/:restaurantId (Link will not work...)
+- ticketButton => https://t.gastronaut.ai/:restaurantId/:ticketId (Link will not work...)
+- menuButton => https:// menu.gastronaut.ai/:restaurantId (Link will not work...)
 
-HOW TO WORK WITH MATERIAL UI
+## HOW TO WORK WITH MATERIAL UI
 
 ```js
 // get the documentation from https://material-ui.com
@@ -120,4 +120,4 @@ You have no time pressure, this task should'nt take to long. when you're done pl
 
 Disclaimer: We will not use this work if we don't hire you, but you are free to use this in your portfolio (NOT IN PRODUCTION FOR ANY COMPANY OR YOURSELF.
 
-\*\*\* Have Fun!
+## Have Fun!

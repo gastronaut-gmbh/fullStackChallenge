@@ -1,5 +1,5 @@
 # Full Stack Challenge
-#### [Figma Link](https://www.figma.com/file/9nHoPcsaW5BqMuDlYMWnVC/Gastronaut-FullStack-Challenge?node-id=0%3A1)
+#### [Find the Design with some instructions here](https://www.figma.com/file/9nHoPcsaW5BqMuDlYMWnVC/Gastronaut-FullStack-Challenge?node-id=0%3A1)
 
 * [ ] Recreate Screen using the following Technologies ()
   * [ ] React (create-react-app)

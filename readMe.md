@@ -1,17 +1,17 @@
-- Full Stack Challenge
-  \*\*\* https://www.figma.com/file/9nHoPcsaW5BqMuDlYMWnVC/Gastronaut-FullStack-Challenge?node-id=0%3A1
+** Full Stack Challenge
+  *** https://www.figma.com/file/9nHoPcsaW5BqMuDlYMWnVC/Gastronaut-FullStack-Challenge?node-id=0%3A1
 
 * [ ] Recreate Screen using the following Technologies ()
-*      [ ] React (create-react-app)
-*      [ ] @material-ui (see below)
-*      [ ] axios (https://www.npmjs.com/package/axios)
-*      [ ] use functional components (We mostly use Arrow functions over Class and since we mostly use Hooks you should be able to work with them)
-*      [ ] use React-Hooks like, useEffect, useState, etc.
+  * [ ] React (create-react-app)
+  * [ ] @material-ui (see below)
+  * [ ] axios (https://www.npmjs.com/package/axios)
+  * [ ] use functional components (We mostly use Arrow functions over Class and since we mostly use Hooks you should be able to work with them)
+  * [ ] use React-Hooks like, useEffect, useState, etc.
 * [ ] on page load get data from API and display it
 * [ ] build bilingual user interface using the provided API
-*      [ ] use the provided LanguageToggle to toggle between german ('de') and english ('de')
-*      [ ] as default language take 'de' if the languageSettings of the browser include 'de' else use 'en'
-*      [ ] get the translations as Object from https://api.gastronaut.ai/v02/language/codeTest/:language
+  * [ ] use the provided LanguageToggle to toggle between german ('de') and english ('de')
+  * [ ] as default language take 'de' if the languageSettings of the browser include 'de' else use 'en'
+  * [ ] get the translations as Object from https://api.gastronaut.ai/v02/language/codeTest/:language
 * [ ] Restaurant Id will should provided in url /:restaurantId
 * [ ] just build the view for mobile don't worry about larger screens
 * [ ] Create a Git Repo with an initial Commit

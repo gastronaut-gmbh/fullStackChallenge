@@ -10,13 +10,13 @@
 * [ ] on page load get data from API and display it
 * [ ] build bilingual user interface using the provided API
   * [ ] use the provided LanguageToggle to toggle between german ('de') and english ('de')
-  * [ ] as default language take 'de' if the languageSettings of the browser include 'de' else use 'en'
+  * [ ] as default language take 'de' if the language settings of the browser include 'de' else use 'en'
   * [ ] get the translations as Object from https://api.gastronaut.ai/v02/language/codeTest/:language
-* [ ] Restaurant Id will should provided in url /:restaurantId
-* [ ] just build the view for mobile don't worry about larger screens
+* [ ] Restaurant Id should be provided in url /:restaurantId
+* [ ] just build the view for mobile and don't worry about larger screens
 * [ ] Create a Git Repo with an initial Commit
-* [ ] While loading cover the whole page and show a spinner (<CircularProgress /> from Material UI) in the center;
-* [ ] Error Handle Errors by Showing an <Alert severity="error">{message}</Alert> from Material UI instead of the UI;
+* [ ] While loading cover the whole page and show a spinner (```<CircularProgress />``` from Material UI) in the center;
+* [ ] Handle Errors by Showing an ```javascript <Alert severity="error">{message}</Alert>``` from Material UI instead of the UI;
 
 ```javascript
   // GET https://api.gastronaut.ai/codeTest/:restaurantId
